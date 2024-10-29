@@ -16,6 +16,7 @@ BLUM HALLOWEEN | Without API (scrypt in Python)
 - pip install mss
 - pip install keyboard
 - pip install pynput
+- pip install pygetwindow
 3. Завантаження основного файлу
 Переконайтеся, що основний файл auto_clicker.py знаходиться в корені папки,
 де ви плануєте запускати авто клікер.( C:\Users\name)
@@ -51,6 +52,7 @@ install the required libraries: (WIN + R → cmd)
 - pip install mss
 - pip install keyboard
 - pip install pynput
+- pip install pygetwindow
 3. Downloading the main file
 Make sure the main file auto_clicker.py is located in the root folder where you plan to
 run the auto clicker. (C:\Users\name)
@@ -85,6 +87,7 @@ further assistance, please let us know!
 - pip install mss
 - pip install keyboard
 - pip install pynput
+- pip install pygetwindow
 3. Загрузка основного файла
 Убедитесь, что основной файл auto_clicker.py находится в корневой папке, где
 вы планируете запустить автокликер. (C:\Users\name)
