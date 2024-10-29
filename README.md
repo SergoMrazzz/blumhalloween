@@ -3,8 +3,9 @@ BLUM HALLOWEEN EVENT | Without API (scrypt in Python)
 -----------------------------------------------------------------------------------
 Інструкція по використанню авто клікера (UA)
 
-1. Передумови
-Переконайтеся, що на вашому комп'ютері встановлені Python та pip. Якщо вони не
+_Передумови_
+
+1. Переконайтеся, що на вашому комп'ютері встановлені Python та pip. Якщо вони не
 встановлені, ви можете завантажити їх з офіційного сайту Python:
 - Завантажте Python
 - Якщо Python вже встановлено, перевірте версію pip
@@ -39,8 +40,10 @@ py auto_clicker.py
 роботу з командним рядком та інсталяцію Python бібліотек.
 -----------------------------------------------------------------------------------
 Instructions for using the auto clicker (ENG)
-1. Prerequisites
-Make sure Python and pip are installed on your computer. If not, you can download
+
+_Prerequisites_
+
+1. Make sure Python and pip are installed on your computer. If not, you can download
 them from the official Python website:
 - Download Python
 - If Python is already installed, check the pip version.
@@ -74,8 +77,10 @@ Note that this instruction assumes the user has basic knowledge of working with
 Command Prompt and installing Python libraries.
 -----------------------------------------------------------------------------------
 Инструкции по использованию автокликера (RU)
-1. Предварительные условия
-Убедитесь, что на вашем компьютере установлены Python и pip. Если нет, вы
+
+_Предварительные условия_
+
+1. Убедитесь, что на вашем компьютере установлены Python и pip. Если нет, вы
 можете загрузить их с официального сайта Python:
 - Скачать Python
 - Если Python уже установлен, проверьте версию pip.
