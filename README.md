@@ -32,11 +32,11 @@ py auto_clicker.py
 5. Використання авто клікера
 Після запуску програми вона буде очікувати вказівок клавіатури для включення та
 виключення функціоналу автоматичного клікера.
-o Для включення клікера натисніть S.
-o Для виключення клікера натисніть Q.
+- Для включення клікера натисніть S.
+- Для виключення клікера натисніть Q.
+
 Зауважте, що ця інструкція базується на тому, що користувач має базові знання про
-роботу з командним рядком та інсталяцію Python бібліотек. Якщо є які-небудь питання
-або потрібна додаткова допомога, будь ласка, дайте знати! 
+роботу з командним рядком та інсталяцію Python бібліотек.
 -----------------------------------------------------------------------------------
 Instructions for using the auto clicker (ENG)
 1. Prerequisites
@@ -67,11 +67,11 @@ After executing this command, the auto clicker will be launched and ready to use
 5. Using the auto clicker
 After starting the program, it will await keyboard instructions to enable and disable the
 automatic clicker functionality.
-o Press S to enable the clicker.
-o Press Q to disable the clicker.
+- Press S to enable the clicker.
+- Press Q to disable the clicker.
+
 Note that this instruction assumes the user has basic knowledge of working with
-Command Prompt and installing Python libraries. If you have any questions or need
-further assistance, please let us know!
+Command Prompt and installing Python libraries.
 -----------------------------------------------------------------------------------
 Инструкции по использованию автокликера (RU)
 1. Предварительные условия
@@ -103,7 +103,8 @@ py auto_clicker.py
 5. Использование автокликера
 После запуска программы она будет ожидать указаний с клавиатуры для
 включения и отключения функционала автоматического кликера.
-o Нажмите S, чтобы включить кликер.
-o Нажмите Q, чтобы выключить кликер.
+- Нажмите S, чтобы включить кликер.
+- Нажмите Q, чтобы выключить кликер.
+
 Если у вас возникнут вопросы или потребуется дополнительная помощь, пожалуйста,
 дайте нам знать! 
