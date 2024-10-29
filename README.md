@@ -1,5 +1,5 @@
 # blumhalloween 
-BLUM HALLOWEEN | Without API (scrypt in Python)
+BLUM HALLOWEEN EVENT | Without API (scrypt in Python)
 -----------------------------------------------------------------------------------
 Інструкція по використанню авто клікера (UA)
 
